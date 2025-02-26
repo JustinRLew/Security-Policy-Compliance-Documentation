@@ -3,7 +3,7 @@
 # Security Policy Compliance Tracker (SPCT)
 
 ## 📌 Project Overview
-The **Security Policy Compliance Tracker (SPCT)** is a structured process designed to help organizations **track, assess, and audit compliance** with security policies. This project demonstrates Governance, Risk, and Compliance (GRC) skills essential for an entry-level GRC Analyst role.
+The **Security Policy Compliance Tracker (SPCT)** is a designed to help organizations **track, assess, and audit compliance** with security policies. This project demonstrates Governance, Risk, and Compliance (GRC) skills essential for an entry-level GRC Analyst role.
 
 ## Responsibilities & Tasks
 - **Review Security Policies**
@@ -45,11 +45,11 @@ The **Security Policy Compliance Tracker (SPCT)** is a structured process design
 - Enhance **third-party vendor security assessments**.
 - Standardize **risk assessment scoring methods**.
 
-## 📜 License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ---
 
-🔒 **Security compliance is a continuous process. Track compliance, mitigate risks, and maintain regulatory standards!**
+**Security compliance is a continuous process. Track compliance, mitigate risks, and maintain regulatory standards!**
 
